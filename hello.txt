@@ -11,4 +11,4 @@ hello kb! hello git!
 hello kb! hello git!
 hello kb! hello git!
 hello kb! hello git!
-hello kb! hello git!
+hello kb! hello git! hot-fix test
